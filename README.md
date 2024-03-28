@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A Fan Site for Board games<br>👯 I’m looking to collaborate on LangChain and OpenAI LLM integration<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Python and LangChain<br>💬 Ask me about FrontEnd Development<br>⚡ Fun fact Personal Finances Enthusiast
+🔭 I’m currently working on A Fan Site for Board games<br>👯 I’m looking to collaborate on LangChain and OpenAI LLM integration<br>🤝 I’m looking for help with LLM Generation<br>🌱 I’m currently learning Python and LangChain<br>💬 Ask me about FrontEnd Development<br>⚡ Fun fact Personal Finances Enthusiast
 
 
 ## 🌐 Socials:
